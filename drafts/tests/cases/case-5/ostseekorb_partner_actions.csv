@@ -1,0 +1,25 @@
+action_id,store_id,campaign_id,variant,market,timestamp,store_type,action,extra_bags_per_day
+PA905001,s_0412870001,cmp_b2b_5503,Control,DE,2026-11-10T17:08,Bakery,added_second_pickup_window,2
+PA905002,s_0412870002,cmp_b2b_5503,Control,DE,2026-11-10T17:21,Cafe,added_second_pickup_window,1
+PA905003,s_0412870003,cmp_b2b_5503,Control,DE,2026-11-10T18:02,Grocery,added_second_pickup_window,2
+PA905004,s_0412870004,cmp_b2b_5503,Control,DE,2026-11-10T19:40,Restaurant,added_second_pickup_window,3
+PA905005,s_0412870005,cmp_b2b_5503,Control,DE,2026-11-11T09:15,Bakery,added_second_pickup_window,2
+PA905006,s_0412870006,cmp_b2b_5503,Control,DE,2026-11-11T11:30,Cafe,added_second_pickup_window,2
+PA905007,s_0412870007,cmp_b2b_5503,Control,DE,2026-11-11T17:45,Grocery,added_second_pickup_window,1
+PA905008,s_0412870008,cmp_b2b_5503,Control,DE,2026-11-12T10:05,Restaurant,added_second_pickup_window,2
+PA905009,s_0412870009,cmp_b2b_5503,Control,DE,2026-11-13T08:50,Bakery,added_second_pickup_window,2
+PA905010,s_0412870010,cmp_b2b_5503,Control,DE,2026-11-14T12:20,Cafe,added_second_pickup_window,2
+PA905011,s_0412870011,cmp_b2b_5503,Variant A,DE,2026-11-10T17:06,Bakery,added_second_pickup_window,2
+PA905012,s_0412870012,cmp_b2b_5503,Variant A,DE,2026-11-10T17:14,Restaurant,added_second_pickup_window,3
+PA905013,s_0412870013,cmp_b2b_5503,Variant A,DE,2026-11-10T17:33,Cafe,added_second_pickup_window,2
+PA905014,s_0412870014,cmp_b2b_5503,Variant A,DE,2026-11-10T18:10,Grocery,added_second_pickup_window,2
+PA905015,s_0412870015,cmp_b2b_5503,Variant A,DE,2026-11-10T19:02,Bakery,added_second_pickup_window,3
+PA905016,s_0412870016,cmp_b2b_5503,Variant A,DE,2026-11-10T20:25,Cafe,added_second_pickup_window,2
+PA905017,s_0412870017,cmp_b2b_5503,Variant A,DE,2026-11-11T08:40,Grocery,added_second_pickup_window,1
+PA905018,s_0412870018,cmp_b2b_5503,Variant A,DE,2026-11-11T10:55,Restaurant,added_second_pickup_window,2
+PA905019,s_0412870019,cmp_b2b_5503,Variant A,DE,2026-11-11T14:12,Bakery,added_second_pickup_window,3
+PA905020,s_0412870020,cmp_b2b_5503,Variant A,DE,2026-11-11T17:30,Cafe,added_second_pickup_window,2
+PA905021,s_0412870021,cmp_b2b_5503,Variant A,DE,2026-11-12T09:25,Restaurant,added_second_pickup_window,2
+PA905022,s_0412870022,cmp_b2b_5503,Variant A,DE,2026-11-12T15:48,Grocery,added_second_pickup_window,2
+PA905023,s_0412870023,cmp_b2b_5503,Variant A,DE,2026-11-13T11:05,Bakery,added_second_pickup_window,3
+PA905024,s_0412870024,cmp_b2b_5503,Variant A,DE,2026-11-14T13:35,Cafe,added_second_pickup_window,2

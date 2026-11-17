@@ -1,0 +1,15 @@
+date,campaign_id,campaign_name,segment,market,variant,subject_line,sends,deliveries,hard_bounces,soft_bounces,unique_opens,machine_opens,unique_clicks,unsubscribes,spam_reports,primary_conversions,revenue_eur
+2026-10-27,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Control,Harvest veg bags near you,4000,3940,15,45,880,410,64,1,0,8,45.0
+2026-10-28,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Control,Harvest veg bags near you,0,0,0,0,330,155,24,0,0,5,27.0
+2026-10-29,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Control,Harvest veg bags near you,0,0,0,0,200,95,14,1,0,3,18.0
+2026-10-30,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Control,Harvest veg bags near you,0,0,0,0,120,55,9,0,0,2,9.0
+2026-10-31,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Control,Harvest veg bags near you,0,0,0,0,70,33,5,0,0,1,4.5
+2026-11-01,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Control,Harvest veg bags near you,0,0,0,0,40,18,3,0,0,1,4.5
+2026-11-02,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Control,Harvest veg bags near you,0,0,0,0,20,9,1,0,0,0,0.0
+2026-10-27,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Variant A,Only 4 veg bags left near you,4000,3945,14,41,920,430,80,0,0,10,54.0
+2026-10-28,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Variant A,Only 4 veg bags left near you,0,0,0,0,350,165,30,1,0,7,40.5
+2026-10-29,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Variant A,Only 4 veg bags left near you,0,0,0,0,210,98,18,0,0,4,22.5
+2026-10-30,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Variant A,Only 4 veg bags left near you,0,0,0,0,125,58,10,1,0,2,9.0
+2026-10-31,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Variant A,Only 4 veg bags left near you,0,0,0,0,75,35,7,0,0,2,13.5
+2026-11-01,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Variant A,Only 4 veg bags left near you,0,0,0,0,45,21,4,0,0,1,4.5
+2026-11-02,cmp_b2c_6602,B2C | Harvest veg bags | Subject line test,B2C,DE,Variant A,Only 4 veg bags left near you,0,0,0,0,25,12,2,0,0,0,0.0

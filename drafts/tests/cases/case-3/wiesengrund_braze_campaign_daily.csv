@@ -1,0 +1,43 @@
+date,campaign_id,campaign_name,segment,market,variant,subject_line,sends,deliveries,hard_bounces,soft_bounces,unique_opens,machine_opens,unique_clicks,unsubscribes,spam_reports,primary_conversions,revenue_eur
+2026-11-17,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Control,Fresh dinner bags near you tonight,5000,4900,30,70,1130,505,80,1,0,8,36.0
+2026-11-18,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Control,Fresh dinner bags near you tonight,0,0,0,0,410,185,30,0,0,5,22.5
+2026-11-19,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Control,Fresh dinner bags near you tonight,0,0,0,0,225,100,16,1,0,3,13.5
+2026-11-20,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Control,Fresh dinner bags near you tonight,0,0,0,0,125,55,9,0,0,2,9.0
+2026-11-21,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Control,Fresh dinner bags near you tonight,0,0,0,0,80,35,6,0,0,1,4.5
+2026-11-22,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Control,Fresh dinner bags near you tonight,0,0,0,0,50,25,4,0,0,1,4.5
+2026-11-23,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Control,Fresh dinner bags near you tonight,0,0,0,0,30,15,2,0,0,0,0.0
+2026-11-17,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Variant A,Only 3 dinner bags left near you,5000,4900,30,70,1160,515,82,0,0,24,108.0
+2026-11-18,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Variant A,Only 3 dinner bags left near you,0,0,0,0,420,190,31,1,0,15,67.5
+2026-11-19,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Variant A,Only 3 dinner bags left near you,0,0,0,0,230,100,16,0,0,9,40.5
+2026-11-20,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Variant A,Only 3 dinner bags left near you,0,0,0,0,130,60,9,0,0,6,27.0
+2026-11-21,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Variant A,Only 3 dinner bags left near you,0,0,0,0,80,35,6,1,0,3,13.5
+2026-11-22,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Variant A,Only 3 dinner bags left near you,0,0,0,0,50,25,4,0,0,2,9.0
+2026-11-23,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,DE,Variant A,Only 3 dinner bags left near you,0,0,0,0,30,15,2,0,0,1,4.5
+2026-11-17,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Control,Fresh dinner bags near you tonight,5000,4900,30,70,1130,505,80,1,0,20,99.8
+2026-11-18,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Control,Fresh dinner bags near you tonight,0,0,0,0,410,185,30,0,0,12,59.88
+2026-11-19,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Control,Fresh dinner bags near you tonight,0,0,0,0,225,100,16,1,0,8,39.92
+2026-11-20,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Control,Fresh dinner bags near you tonight,0,0,0,0,125,55,9,0,0,5,24.95
+2026-11-21,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Control,Fresh dinner bags near you tonight,0,0,0,0,80,35,6,0,0,3,14.97
+2026-11-22,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Control,Fresh dinner bags near you tonight,0,0,0,0,50,25,4,0,0,2,9.98
+2026-11-23,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Control,Fresh dinner bags near you tonight,0,0,0,0,30,15,2,0,0,0,0.0
+2026-11-17,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Variant A,Only 3 dinner bags left near you,5000,4900,30,70,1160,515,82,0,0,16,79.84
+2026-11-18,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Variant A,Only 3 dinner bags left near you,0,0,0,0,420,190,31,1,0,10,49.9
+2026-11-19,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Variant A,Only 3 dinner bags left near you,0,0,0,0,230,100,16,0,0,6,29.94
+2026-11-20,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Variant A,Only 3 dinner bags left near you,0,0,0,0,130,60,9,0,0,4,19.96
+2026-11-21,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Variant A,Only 3 dinner bags left near you,0,0,0,0,80,35,6,1,0,2,9.98
+2026-11-22,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Variant A,Only 3 dinner bags left near you,0,0,0,0,50,25,4,0,0,1,4.99
+2026-11-23,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,FR,Variant A,Only 3 dinner bags left near you,0,0,0,0,30,15,2,0,0,1,4.99
+2026-11-17,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Control,Fresh dinner bags near you tonight,5000,4900,30,70,1130,505,80,1,0,12,55.2
+2026-11-18,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Control,Fresh dinner bags near you tonight,0,0,0,0,410,185,30,0,0,8,36.8
+2026-11-19,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Control,Fresh dinner bags near you tonight,0,0,0,0,225,100,16,1,0,4,18.4
+2026-11-20,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Control,Fresh dinner bags near you tonight,0,0,0,0,125,55,9,0,0,3,13.8
+2026-11-21,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Control,Fresh dinner bags near you tonight,0,0,0,0,80,35,6,0,0,2,9.2
+2026-11-22,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Control,Fresh dinner bags near you tonight,0,0,0,0,50,25,4,0,0,1,4.6
+2026-11-23,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Control,Fresh dinner bags near you tonight,0,0,0,0,30,15,2,0,0,0,0.0
+2026-11-17,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Variant A,Only 3 dinner bags left near you,5000,4900,30,70,1160,515,82,0,0,12,55.2
+2026-11-18,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Variant A,Only 3 dinner bags left near you,0,0,0,0,420,190,31,1,0,8,36.8
+2026-11-19,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Variant A,Only 3 dinner bags left near you,0,0,0,0,230,100,16,0,0,4,18.4
+2026-11-20,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Variant A,Only 3 dinner bags left near you,0,0,0,0,130,60,9,0,0,3,13.8
+2026-11-21,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Variant A,Only 3 dinner bags left near you,0,0,0,0,80,35,6,1,0,2,9.2
+2026-11-22,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Variant A,Only 3 dinner bags left near you,0,0,0,0,50,25,4,0,0,1,4.6
+2026-11-23,cmp_b2c_7703,B2C | Winter dinner bags | Subject line test,B2C,NL,Variant A,Only 3 dinner bags left near you,0,0,0,0,30,15,2,0,0,0,0.0

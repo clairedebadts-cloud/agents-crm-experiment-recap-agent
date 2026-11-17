@@ -1,0 +1,15 @@
+date,campaign_id,campaign_name,segment,market,variant,subject_line,sends,deliveries,hard_bounces,soft_bounces,unique_opens,machine_opens,unique_clicks,unsubscribes,spam_reports,primary_conversions,revenue_eur
+2026-11-10,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Control,Add an evening pickup window,800,790,4,6,190,85,25,1,0,4,0.0
+2026-11-11,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Control,Add an evening pickup window,0,0,0,0,80,35,10,0,0,3,0.0
+2026-11-12,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Control,Add an evening pickup window,0,0,0,0,50,22,6,0,0,1,0.0
+2026-11-13,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Control,Add an evening pickup window,0,0,0,0,30,13,4,1,0,1,0.0
+2026-11-14,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Control,Add an evening pickup window,0,0,0,0,20,9,2,0,0,1,0.0
+2026-11-15,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Control,Add an evening pickup window,0,0,0,0,10,4,1,0,0,0,0.0
+2026-11-16,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Control,Add an evening pickup window,0,0,0,0,5,2,0,0,0,0,0.0
+2026-11-10,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Variant A,Stores like yours add 2 bags a day with an evening slot,800,792,3,5,200,90,31,0,0,6,0.0
+2026-11-11,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Variant A,Stores like yours add 2 bags a day with an evening slot,0,0,0,0,85,37,13,1,0,4,0.0
+2026-11-12,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Variant A,Stores like yours add 2 bags a day with an evening slot,0,0,0,0,52,23,8,0,0,2,0.0
+2026-11-13,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Variant A,Stores like yours add 2 bags a day with an evening slot,0,0,0,0,32,14,5,0,0,1,0.0
+2026-11-14,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Variant A,Stores like yours add 2 bags a day with an evening slot,0,0,0,0,20,9,3,1,0,1,0.0
+2026-11-15,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Variant A,Stores like yours add 2 bags a day with an evening slot,0,0,0,0,12,5,1,0,0,0,0.0
+2026-11-16,cmp_b2b_5503,B2B | Partner stores | Evening pickup window,B2B,DE,Variant A,Stores like yours add 2 bags a day with an evening slot,0,0,0,0,6,2,1,0,0,0,0.0

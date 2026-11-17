@@ -1,0 +1,367 @@
+action_id,store_id,campaign_id,variant,market,timestamp,store_type,action,extra_bags_per_day
+PA002236,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:05,Bakery,added_second_pickup_window,2
+PA002260,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:06,Restaurant,added_second_pickup_window,4
+PA002439,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T17:09,Restaurant,added_second_pickup_window,1
+PA002457,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T17:10,Restaurant,added_second_pickup_window,1
+PA002437,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T17:11,Bakery,added_second_pickup_window,2
+PA002383,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T17:12,Restaurant,added_second_pickup_window,2
+PA002289,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T17:16,Café,added_second_pickup_window,2
+PA002226,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:16,Bakery,added_second_pickup_window,3
+PA002251,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:16,Restaurant,added_second_pickup_window,1
+PA002308,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T17:17,Supermarket,added_second_pickup_window,1
+PA002372,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T17:21,Bakery,added_second_pickup_window,2
+PA002550,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T17:21,Supermarket,added_second_pickup_window,2
+PA002507,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T17:21,Restaurant,added_second_pickup_window,1
+PA002388,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T17:22,Bakery,added_second_pickup_window,2
+PA002364,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T17:22,Café,added_second_pickup_window,2
+PA002248,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:23,Bakery,added_second_pickup_window,2
+PA002324,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T17:26,Restaurant,added_second_pickup_window,2
+PA002513,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T17:26,Supermarket,added_second_pickup_window,2
+PA002253,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:27,Bakery,added_second_pickup_window,4
+PA002377,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T17:27,Supermarket,added_second_pickup_window,3
+PA002327,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T17:30,Café,added_second_pickup_window,3
+PA002239,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:32,Bakery,added_second_pickup_window,1
+PA002468,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T17:34,Bakery,added_second_pickup_window,3
+PA002389,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T17:34,Restaurant,added_second_pickup_window,1
+PA002360,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T17:37,Bakery,added_second_pickup_window,3
+PA002224,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:40,Hotel buffet,added_second_pickup_window,2
+PA002326,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T17:40,Bakery,added_second_pickup_window,1
+PA002257,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:41,Restaurant,added_second_pickup_window,1
+PA002376,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T17:43,Bakery,added_second_pickup_window,2
+PA002254,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:43,Supermarket,added_second_pickup_window,2
+PA002391,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T17:44,Supermarket,added_second_pickup_window,2
+PA002303,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T17:49,Café,added_second_pickup_window,2
+PA002215,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:51,Hotel buffet,added_second_pickup_window,2
+PA002385,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T17:51,Supermarket,added_second_pickup_window,2
+PA002231,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T17:53,Café,added_second_pickup_window,4
+PA002304,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T17:55,Supermarket,added_second_pickup_window,3
+PA002555,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T17:56,Bakery,added_second_pickup_window,1
+PA002441,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T17:57,Hotel buffet,added_second_pickup_window,4
+PA002292,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T18:00,Hotel buffet,added_second_pickup_window,3
+PA002301,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T18:02,Bakery,added_second_pickup_window,3
+PA002321,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T18:03,Hotel buffet,added_second_pickup_window,4
+PA002313,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T18:04,Bakery,added_second_pickup_window,4
+PA002230,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T18:08,Bakery,added_second_pickup_window,2
+PA002553,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T18:09,Bakery,added_second_pickup_window,1
+PA002261,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T18:09,Hotel buffet,added_second_pickup_window,2
+PA002536,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T18:17,Restaurant,added_second_pickup_window,1
+PA002517,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T18:19,Bakery,added_second_pickup_window,2
+PA002288,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T18:20,Restaurant,added_second_pickup_window,2
+PA002325,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T18:25,Bakery,added_second_pickup_window,2
+PA002531,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T18:26,Bakery,added_second_pickup_window,1
+PA002242,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T18:27,Bakery,added_second_pickup_window,1
+PA002390,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T18:28,Supermarket,added_second_pickup_window,2
+PA002434,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T18:30,Restaurant,added_second_pickup_window,4
+PA002319,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T18:31,Bakery,added_second_pickup_window,2
+PA002547,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T18:32,Café,added_second_pickup_window,2
+PA002243,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T18:32,Supermarket,added_second_pickup_window,1
+PA002515,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T18:35,Supermarket,added_second_pickup_window,1
+PA002252,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T18:38,Restaurant,added_second_pickup_window,2
+PA002234,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T18:40,Hotel buffet,added_second_pickup_window,1
+PA002559,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T18:41,Restaurant,added_second_pickup_window,2
+PA002533,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T18:41,Supermarket,added_second_pickup_window,1
+PA002356,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T18:42,Restaurant,added_second_pickup_window,1
+PA002384,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T18:42,Café,added_second_pickup_window,2
+PA002395,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T18:42,Hotel buffet,added_second_pickup_window,1
+PA002359,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T18:44,Supermarket,added_second_pickup_window,2
+PA002554,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T18:44,Supermarket,added_second_pickup_window,2
+PA002508,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T18:51,Café,added_second_pickup_window,1
+PA002438,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T18:53,Bakery,added_second_pickup_window,2
+PA002368,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T18:56,Hotel buffet,added_second_pickup_window,3
+PA002551,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T18:57,Café,added_second_pickup_window,3
+PA002509,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T18:59,Restaurant,added_second_pickup_window,3
+PA002447,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T18:59,Restaurant,added_second_pickup_window,3
+PA002454,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T19:00,Bakery,added_second_pickup_window,3
+PA002558,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T19:01,Hotel buffet,added_second_pickup_window,1
+PA002284,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T19:03,Bakery,added_second_pickup_window,1
+PA002350,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:05,Café,added_second_pickup_window,2
+PA002229,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T19:06,Restaurant,added_second_pickup_window,3
+PA002453,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T19:07,Café,added_second_pickup_window,3
+PA002247,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T19:08,Supermarket,added_second_pickup_window,1
+PA002365,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:08,Supermarket,added_second_pickup_window,1
+PA002557,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T19:08,Supermarket,added_second_pickup_window,1
+PA002375,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:12,Café,added_second_pickup_window,1
+PA002212,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T19:15,Supermarket,added_second_pickup_window,3
+PA002315,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T19:16,Restaurant,added_second_pickup_window,2
+PA002354,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:17,Restaurant,added_second_pickup_window,4
+PA002221,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T19:17,Supermarket,added_second_pickup_window,4
+PA002286,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T19:17,Bakery,added_second_pickup_window,4
+PA002311,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T19:18,Restaurant,added_second_pickup_window,3
+PA002233,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T19:18,Hotel buffet,added_second_pickup_window,2
+PA002455,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T19:19,Café,added_second_pickup_window,2
+PA002238,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T19:20,Supermarket,added_second_pickup_window,2
+PA002379,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:23,Bakery,added_second_pickup_window,3
+PA002448,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T19:24,Hotel buffet,added_second_pickup_window,4
+PA002473,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T19:25,Bakery,added_second_pickup_window,3
+PA002223,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T19:25,Bakery,added_second_pickup_window,4
+PA002241,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T19:28,Bakery,added_second_pickup_window,2
+PA002306,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T19:29,Supermarket,added_second_pickup_window,3
+PA002366,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:29,Supermarket,added_second_pickup_window,1
+PA002460,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T19:33,Bakery,added_second_pickup_window,4
+PA002323,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T19:33,Restaurant,added_second_pickup_window,2
+PA002539,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T19:34,Café,added_second_pickup_window,3
+PA002285,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T19:40,Bakery,added_second_pickup_window,1
+PA002374,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:41,Bakery,added_second_pickup_window,2
+PA002458,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T19:43,Restaurant,added_second_pickup_window,2
+PA002504,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T19:46,Restaurant,added_second_pickup_window,2
+PA002514,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T19:47,Bakery,added_second_pickup_window,3
+PA002250,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T19:51,Bakery,added_second_pickup_window,4
+PA002538,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T19:52,Restaurant,added_second_pickup_window,2
+PA002355,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:53,Bakery,added_second_pickup_window,1
+PA002380,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:53,Bakery,added_second_pickup_window,1
+PA002210,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T19:55,Bakery,added_second_pickup_window,2
+PA002290,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T19:55,Bakery,added_second_pickup_window,1
+PA002552,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T19:56,Supermarket,added_second_pickup_window,1
+PA002386,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:56,Restaurant,added_second_pickup_window,1
+PA002467,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T19:58,Bakery,added_second_pickup_window,1
+PA002546,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T19:59,Bakery,added_second_pickup_window,2
+PA002369,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T19:59,Supermarket,added_second_pickup_window,1
+PA002298,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:02,Restaurant,added_second_pickup_window,2
+PA002471,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T20:05,Supermarket,added_second_pickup_window,2
+PA002352,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T20:06,Supermarket,added_second_pickup_window,2
+PA002309,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:08,Bakery,added_second_pickup_window,3
+PA002317,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:09,Bakery,added_second_pickup_window,2
+PA002291,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:10,Hotel buffet,added_second_pickup_window,1
+PA002397,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T20:10,Supermarket,added_second_pickup_window,4
+PA002472,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T20:11,Bakery,added_second_pickup_window,1
+PA002258,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T20:12,Supermarket,added_second_pickup_window,2
+PA002216,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T20:14,Supermarket,added_second_pickup_window,1
+PA002296,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:15,Supermarket,added_second_pickup_window,1
+PA002436,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T20:16,Bakery,added_second_pickup_window,1
+PA002543,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T20:18,Supermarket,added_second_pickup_window,1
+PA002445,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T20:20,Restaurant,added_second_pickup_window,3
+PA002318,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:22,Bakery,added_second_pickup_window,4
+PA002510,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T20:23,Bakery,added_second_pickup_window,2
+PA002305,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:23,Bakery,added_second_pickup_window,1
+PA002443,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T20:24,Bakery,added_second_pickup_window,2
+PA002244,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T20:26,Supermarket,added_second_pickup_window,3
+PA002451,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T20:29,Supermarket,added_second_pickup_window,3
+PA002544,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T20:30,Bakery,added_second_pickup_window,3
+PA002506,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T20:34,Supermarket,added_second_pickup_window,3
+PA002382,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T20:34,Café,added_second_pickup_window,2
+PA002283,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:36,Bakery,added_second_pickup_window,3
+PA002293,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:36,Supermarket,added_second_pickup_window,1
+PA002373,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T20:36,Bakery,added_second_pickup_window,3
+PA002358,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T20:37,Restaurant,added_second_pickup_window,1
+PA002299,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:38,Bakery,added_second_pickup_window,2
+PA002534,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T20:42,Supermarket,added_second_pickup_window,2
+PA002295,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:44,Supermarket,added_second_pickup_window,2
+PA002430,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T20:44,Supermarket,added_second_pickup_window,3
+PA002556,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T20:45,Restaurant,added_second_pickup_window,2
+PA002237,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T20:45,Café,added_second_pickup_window,2
+PA002530,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T20:46,Supermarket,added_second_pickup_window,2
+PA002535,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T20:46,Hotel buffet,added_second_pickup_window,1
+PA002370,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T20:46,Supermarket,added_second_pickup_window,1
+PA002314,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:48,Hotel buffet,added_second_pickup_window,3
+PA002461,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T20:52,Restaurant,added_second_pickup_window,3
+PA002312,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:52,Bakery,added_second_pickup_window,2
+PA002452,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T20:53,Supermarket,added_second_pickup_window,1
+PA002300,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T20:54,Supermarket,added_second_pickup_window,2
+PA002433,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T20:54,Supermarket,added_second_pickup_window,2
+PA002532,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T20:57,Bakery,added_second_pickup_window,1
+PA002222,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T20:57,Supermarket,added_second_pickup_window,1
+PA002549,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T20:58,Bakery,added_second_pickup_window,3
+PA002256,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T20:59,Bakery,added_second_pickup_window,1
+PA002463,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:00,Supermarket,added_second_pickup_window,1
+PA002459,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:04,Supermarket,added_second_pickup_window,3
+PA002511,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T21:05,Bakery,added_second_pickup_window,2
+PA002227,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:05,Café,added_second_pickup_window,1
+PA002462,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:05,Bakery,added_second_pickup_window,1
+PA002396,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T21:07,Bakery,added_second_pickup_window,2
+PA002394,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T21:07,Bakery,added_second_pickup_window,2
+PA002363,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T21:10,Café,added_second_pickup_window,1
+PA002393,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T21:11,Supermarket,added_second_pickup_window,1
+PA002381,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T21:11,Bakery,added_second_pickup_window,4
+PA002282,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T21:12,Supermarket,added_second_pickup_window,2
+PA002516,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T21:13,Bakery,added_second_pickup_window,1
+PA002249,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:13,Supermarket,added_second_pickup_window,2
+PA002449,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:13,Bakery,added_second_pickup_window,3
+PA002435,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:14,Hotel buffet,added_second_pickup_window,2
+PA002297,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T21:15,Bakery,added_second_pickup_window,1
+PA002387,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T21:19,Bakery,added_second_pickup_window,1
+PA002213,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:20,Restaurant,added_second_pickup_window,1
+PA002259,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:20,Supermarket,added_second_pickup_window,1
+PA002245,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:20,Bakery,added_second_pickup_window,1
+PA002378,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T21:25,Bakery,added_second_pickup_window,2
+PA002540,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T21:26,Café,added_second_pickup_window,2
+PA002548,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T21:26,Bakery,added_second_pickup_window,1
+PA002542,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T21:28,Supermarket,added_second_pickup_window,4
+PA002469,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:31,Bakery,added_second_pickup_window,1
+PA002246,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:32,Supermarket,added_second_pickup_window,4
+PA002220,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:34,Restaurant,added_second_pickup_window,4
+PA002512,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T21:34,Bakery,added_second_pickup_window,1
+PA002353,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T21:36,Restaurant,added_second_pickup_window,1
+PA002211,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:38,Supermarket,added_second_pickup_window,2
+PA002432,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:40,Café,added_second_pickup_window,1
+PA002431,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:49,Restaurant,added_second_pickup_window,1
+PA002545,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T21:49,Café,added_second_pickup_window,3
+PA002465,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:50,Restaurant,added_second_pickup_window,1
+PA002219,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:50,Hotel buffet,added_second_pickup_window,3
+PA002456,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:52,Supermarket,added_second_pickup_window,3
+PA002316,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T21:52,Bakery,added_second_pickup_window,2
+PA002235,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:54,Bakery,added_second_pickup_window,3
+PA002450,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T21:55,Supermarket,added_second_pickup_window,2
+PA002232,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T21:56,Supermarket,added_second_pickup_window,1
+PA002362,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T22:02,Bakery,added_second_pickup_window,2
+PA002322,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T22:05,Café,added_second_pickup_window,4
+PA002357,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T22:06,Bakery,added_second_pickup_window,1
+PA002351,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T22:13,Hotel buffet,added_second_pickup_window,2
+PA002470,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T22:14,Supermarket,added_second_pickup_window,3
+PA002310,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T22:18,Hotel buffet,added_second_pickup_window,1
+PA002442,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T22:21,Bakery,added_second_pickup_window,2
+PA002320,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T22:22,Café,added_second_pickup_window,3
+PA002225,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T22:24,Restaurant,added_second_pickup_window,3
+PA002537,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T22:25,Supermarket,added_second_pickup_window,1
+PA002240,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T22:25,Restaurant,added_second_pickup_window,1
+PA002466,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T22:29,Restaurant,added_second_pickup_window,1
+PA002307,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T22:29,Supermarket,added_second_pickup_window,1
+PA002440,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T22:30,Bakery,added_second_pickup_window,1
+PA002392,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T22:34,Hotel buffet,added_second_pickup_window,1
+PA002217,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T22:34,Bakery,added_second_pickup_window,1
+PA002541,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-03T22:35,Bakery,added_second_pickup_window,1
+PA002446,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T22:36,Bakery,added_second_pickup_window,1
+PA002518,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T22:36,Bakery,added_second_pickup_window,1
+PA002214,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T22:37,Bakery,added_second_pickup_window,2
+PA002302,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T22:40,Bakery,added_second_pickup_window,2
+PA002228,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T22:43,Supermarket,added_second_pickup_window,2
+PA002255,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T22:44,Restaurant,added_second_pickup_window,2
+PA002361,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T22:45,Supermarket,added_second_pickup_window,1
+PA002262,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T22:46,Restaurant,added_second_pickup_window,4
+PA002367,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T22:46,Supermarket,added_second_pickup_window,1
+PA002287,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T22:48,Supermarket,added_second_pickup_window,1
+PA002294,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-03T22:50,Bakery,added_second_pickup_window,2
+PA002371,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-03T22:52,Restaurant,added_second_pickup_window,1
+PA002464,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T22:55,Restaurant,added_second_pickup_window,2
+PA002444,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-03T22:57,Restaurant,added_second_pickup_window,2
+PA002218,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-03T22:57,Supermarket,added_second_pickup_window,1
+PA002505,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-03T22:59,Bakery,added_second_pickup_window,3
+PA002343,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T07:11,Restaurant,added_second_pickup_window,2
+PA002341,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T07:14,Bakery,added_second_pickup_window,3
+PA002488,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T07:17,Restaurant,added_second_pickup_window,3
+PA002338,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T07:33,Supermarket,added_second_pickup_window,2
+PA002489,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T07:45,Supermarket,added_second_pickup_window,2
+PA002477,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T07:56,Restaurant,added_second_pickup_window,2
+PA002408,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T08:30,Supermarket,added_second_pickup_window,2
+PA002401,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T09:02,Supermarket,added_second_pickup_window,2
+PA002478,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T09:12,Bakery,added_second_pickup_window,1
+PA002414,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T09:21,Café,added_second_pickup_window,3
+PA002564,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-04T09:25,Supermarket,added_second_pickup_window,2
+PA002520,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-04T09:37,Bakery,added_second_pickup_window,2
+PA002268,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-04T09:51,Bakery,added_second_pickup_window,3
+PA002490,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T10:11,Café,added_second_pickup_window,2
+PA002479,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T10:46,Bakery,added_second_pickup_window,3
+PA002328,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T10:52,Bakery,added_second_pickup_window,1
+PA002482,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T11:10,Café,added_second_pickup_window,3
+PA002413,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T11:12,Supermarket,added_second_pickup_window,3
+PA002486,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T11:23,Hotel buffet,added_second_pickup_window,1
+PA002329,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T11:30,Bakery,added_second_pickup_window,2
+PA002335,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T11:36,Bakery,added_second_pickup_window,1
+PA002523,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-04T12:08,Supermarket,added_second_pickup_window,2
+PA002342,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T12:14,Supermarket,added_second_pickup_window,2
+PA002331,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T12:51,Supermarket,added_second_pickup_window,3
+PA002484,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T13:03,Supermarket,added_second_pickup_window,3
+PA002406,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T13:24,Supermarket,added_second_pickup_window,1
+PA002485,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T13:43,Bakery,added_second_pickup_window,1
+PA002403,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T13:53,Bakery,added_second_pickup_window,3
+PA002334,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T14:23,Restaurant,added_second_pickup_window,1
+PA002404,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T14:39,Bakery,added_second_pickup_window,3
+PA002487,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T14:41,Supermarket,added_second_pickup_window,2
+PA002400,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T14:45,Supermarket,added_second_pickup_window,1
+PA002336,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T14:49,Supermarket,added_second_pickup_window,1
+PA002566,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-04T14:56,Bakery,added_second_pickup_window,1
+PA002412,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T14:57,Restaurant,added_second_pickup_window,2
+PA002410,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T15:07,Bakery,added_second_pickup_window,1
+PA002563,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-04T15:10,Hotel buffet,added_second_pickup_window,1
+PA002265,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-04T15:14,Bakery,added_second_pickup_window,2
+PA002409,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T15:20,Supermarket,added_second_pickup_window,2
+PA002402,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T16:08,Hotel buffet,added_second_pickup_window,1
+PA002332,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T16:19,Supermarket,added_second_pickup_window,1
+PA002337,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T16:21,Supermarket,added_second_pickup_window,2
+PA002264,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-04T16:23,Bakery,added_second_pickup_window,1
+PA002565,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-04T16:24,Supermarket,added_second_pickup_window,2
+PA002398,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T16:43,Bakery,added_second_pickup_window,2
+PA002561,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-04T16:54,Bakery,added_second_pickup_window,2
+PA002483,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T17:00,Hotel buffet,added_second_pickup_window,1
+PA002480,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T17:28,Bakery,added_second_pickup_window,2
+PA002476,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T18:11,Restaurant,added_second_pickup_window,4
+PA002267,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-04T18:24,Restaurant,added_second_pickup_window,2
+PA002263,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-04T18:27,Café,added_second_pickup_window,3
+PA002474,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T18:58,Supermarket,added_second_pickup_window,3
+PA002524,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-04T19:03,Bakery,added_second_pickup_window,3
+PA002519,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-04T19:17,Restaurant,added_second_pickup_window,2
+PA002405,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T19:22,Bakery,added_second_pickup_window,3
+PA002339,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T19:26,Restaurant,added_second_pickup_window,3
+PA002266,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-04T19:49,Hotel buffet,added_second_pickup_window,2
+PA002411,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T20:01,Supermarket,added_second_pickup_window,2
+PA002521,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-04T20:01,Supermarket,added_second_pickup_window,1
+PA002330,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T20:22,Bakery,added_second_pickup_window,1
+PA002340,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T20:22,Bakery,added_second_pickup_window,1
+PA002562,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-04T20:30,Supermarket,added_second_pickup_window,3
+PA002522,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-04T20:32,Supermarket,added_second_pickup_window,1
+PA002560,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-04T20:44,Restaurant,added_second_pickup_window,1
+PA002333,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-04T20:51,Café,added_second_pickup_window,2
+PA002407,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T21:02,Supermarket,added_second_pickup_window,2
+PA002481,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T21:17,Bakery,added_second_pickup_window,2
+PA002399,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-04T21:21,Restaurant,added_second_pickup_window,2
+PA002475,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-04T21:48,Supermarket,added_second_pickup_window,2
+PA002416,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-05T08:33,Hotel buffet,added_second_pickup_window,2
+PA002344,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-05T10:01,Café,added_second_pickup_window,2
+PA002568,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-05T10:49,Supermarket,added_second_pickup_window,2
+PA002271,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-05T11:39,Restaurant,added_second_pickup_window,2
+PA002417,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-05T11:57,Restaurant,added_second_pickup_window,2
+PA002527,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-05T13:33,Supermarket,added_second_pickup_window,1
+PA002526,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-05T14:11,Bakery,added_second_pickup_window,2
+PA002492,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-05T14:19,Café,added_second_pickup_window,2
+PA002525,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-05T15:22,Bakery,added_second_pickup_window,2
+PA002269,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-05T16:03,Supermarket,added_second_pickup_window,4
+PA002567,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-05T16:05,Café,added_second_pickup_window,1
+PA002270,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-05T18:35,Supermarket,added_second_pickup_window,4
+PA002272,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-05T20:26,Bakery,added_second_pickup_window,2
+PA002345,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-05T20:31,Bakery,added_second_pickup_window,2
+PA002491,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-05T20:47,Supermarket,added_second_pickup_window,2
+PA002418,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-05T21:29,Café,added_second_pickup_window,2
+PA002493,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-05T21:41,Restaurant,added_second_pickup_window,1
+PA002346,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-05T21:43,Supermarket,added_second_pickup_window,2
+PA002415,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-05T21:56,Restaurant,added_second_pickup_window,2
+PA002276,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-06T07:36,Supermarket,added_second_pickup_window,1
+PA002571,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-06T08:05,Bakery,added_second_pickup_window,1
+PA002420,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-06T08:07,Supermarket,added_second_pickup_window,1
+PA002494,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-06T08:27,Café,added_second_pickup_window,4
+PA002425,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-06T08:34,Restaurant,added_second_pickup_window,2
+PA002570,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-06T10:32,Bakery,added_second_pickup_window,3
+PA002495,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-06T10:35,Café,added_second_pickup_window,4
+PA002496,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-06T11:12,Supermarket,added_second_pickup_window,3
+PA002274,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-06T12:32,Bakery,added_second_pickup_window,1
+PA002273,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-06T13:46,Hotel buffet,added_second_pickup_window,1
+PA002424,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-06T13:55,Bakery,added_second_pickup_window,3
+PA002422,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-06T14:44,Bakery,added_second_pickup_window,2
+PA002569,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-06T15:09,Restaurant,added_second_pickup_window,3
+PA002275,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-06T15:24,Supermarket,added_second_pickup_window,1
+PA002421,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-06T15:29,Restaurant,added_second_pickup_window,2
+PA002347,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-06T16:18,Restaurant,added_second_pickup_window,2
+PA002419,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-06T18:07,Bakery,added_second_pickup_window,4
+PA002572,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-06T19:37,Bakery,added_second_pickup_window,2
+PA002423,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-06T21:06,Café,added_second_pickup_window,3
+PA002278,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-07T12:13,Restaurant,added_second_pickup_window,3
+PA002427,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-07T12:54,Supermarket,added_second_pickup_window,3
+PA002528,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-07T15:33,Café,added_second_pickup_window,4
+PA002497,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-07T15:44,Supermarket,added_second_pickup_window,2
+PA002277,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-07T19:28,Bakery,added_second_pickup_window,1
+PA002426,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-07T21:52,Hotel buffet,added_second_pickup_window,4
+PA002498,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-08T07:02,Bakery,added_second_pickup_window,3
+PA002349,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-08T07:09,Supermarket,added_second_pickup_window,1
+PA002529,s_0000000000,cmp_b2b_0871,Control,NL,2026-11-08T07:25,Café,added_second_pickup_window,1
+PA002502,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-08T11:03,Bakery,added_second_pickup_window,2
+PA002500,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-08T11:14,Restaurant,added_second_pickup_window,1
+PA002279,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-08T11:38,Bakery,added_second_pickup_window,1
+PA002573,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-08T13:49,Restaurant,added_second_pickup_window,2
+PA002501,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-08T14:50,Hotel buffet,added_second_pickup_window,1
+PA002280,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-08T18:20,Bakery,added_second_pickup_window,1
+PA002499,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-08T20:15,Supermarket,added_second_pickup_window,1
+PA002348,s_0000000000,cmp_b2b_0871,Variant A,DE,2026-11-08T20:26,Bakery,added_second_pickup_window,1
+PA002428,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-08T21:44,Supermarket,added_second_pickup_window,2
+PA002574,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-09T07:03,Bakery,added_second_pickup_window,3
+PA002575,s_0000000000,cmp_b2b_0871,Variant A,NL,2026-11-09T10:36,Supermarket,added_second_pickup_window,1
+PA002503,s_0000000000,cmp_b2b_0871,Variant A,FR,2026-11-09T14:08,Café,added_second_pickup_window,1
+PA002429,s_0000000000,cmp_b2b_0871,Control,FR,2026-11-09T18:27,Café,added_second_pickup_window,1
+PA002281,s_0000000000,cmp_b2b_0871,Control,DE,2026-11-09T20:57,Bakery,added_second_pickup_window,4

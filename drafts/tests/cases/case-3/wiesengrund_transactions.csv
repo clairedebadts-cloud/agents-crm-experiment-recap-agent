@@ -1,0 +1,231 @@
+transaction_id,user_id,campaign_id,variant,market,timestamp,store_type,bags,unit_price_eur,amount_eur,platform,first_purchase,refunded
+TX700001,u_0000700001,cmp_b2c_7703,Control,DE,2026-11-17T17:06,Bakery,1,4.5,4.5,iOS,True,False
+TX700002,u_0000700002,cmp_b2c_7703,Control,DE,2026-11-17T17:21,Cafe,1,4.5,4.5,Android,False,False
+TX700003,u_0000700003,cmp_b2c_7703,Control,DE,2026-11-17T17:48,Restaurant,1,4.5,4.5,iOS,False,False
+TX700004,u_0000700004,cmp_b2c_7703,Control,DE,2026-11-17T18:15,Grocery,1,4.5,4.5,Android,False,False
+TX700005,u_0000700005,cmp_b2c_7703,Control,DE,2026-11-17T18:52,Bakery,1,4.5,4.5,iOS,True,False
+TX700006,u_0000700006,cmp_b2c_7703,Control,DE,2026-11-17T19:30,Cafe,1,4.5,4.5,Android,False,False
+TX700007,u_0000700007,cmp_b2c_7703,Control,DE,2026-11-17T20:05,Restaurant,1,4.5,4.5,iOS,False,False
+TX700008,u_0000700008,cmp_b2c_7703,Control,DE,2026-11-17T20:41,Grocery,1,4.5,4.5,Android,False,False
+TX700009,u_0000700009,cmp_b2c_7703,Control,DE,2026-11-18T08:12,Bakery,1,4.5,4.5,iOS,True,False
+TX700010,u_0000700010,cmp_b2c_7703,Control,DE,2026-11-18T10:33,Cafe,1,4.5,4.5,Android,False,False
+TX700011,u_0000700011,cmp_b2c_7703,Control,DE,2026-11-18T13:20,Restaurant,1,4.5,4.5,iOS,False,False
+TX700012,u_0000700012,cmp_b2c_7703,Control,DE,2026-11-18T17:45,Grocery,1,4.5,4.5,Android,False,False
+TX700013,u_0000700013,cmp_b2c_7703,Control,DE,2026-11-18T19:10,Bakery,1,4.5,4.5,iOS,True,False
+TX700014,u_0000700014,cmp_b2c_7703,Control,DE,2026-11-19T09:02,Cafe,1,4.5,4.5,Android,False,False
+TX700015,u_0000700015,cmp_b2c_7703,Control,DE,2026-11-19T12:40,Restaurant,1,4.5,4.5,iOS,False,False
+TX700016,u_0000700016,cmp_b2c_7703,Control,DE,2026-11-19T18:25,Grocery,1,4.5,4.5,Android,False,False
+TX700017,u_0000700017,cmp_b2c_7703,Control,DE,2026-11-20T10:18,Bakery,1,4.5,4.5,iOS,True,False
+TX700018,u_0000700018,cmp_b2c_7703,Control,DE,2026-11-20T17:55,Cafe,1,4.5,4.5,Android,False,False
+TX700019,u_0000700019,cmp_b2c_7703,Control,DE,2026-11-21T11:07,Restaurant,1,4.5,4.5,iOS,False,False
+TX700020,u_0000700020,cmp_b2c_7703,Control,DE,2026-11-22T14:36,Grocery,1,4.5,4.5,Android,False,False
+TX700021,u_0000700021,cmp_b2c_7703,Variant A,DE,2026-11-17T17:05,Bakery,1,4.5,4.5,iOS,True,False
+TX700022,u_0000700022,cmp_b2c_7703,Variant A,DE,2026-11-17T17:09,Cafe,1,4.5,4.5,Android,False,False
+TX700023,u_0000700023,cmp_b2c_7703,Variant A,DE,2026-11-17T17:14,Restaurant,1,4.5,4.5,iOS,False,False
+TX700024,u_0000700024,cmp_b2c_7703,Variant A,DE,2026-11-17T17:20,Grocery,1,4.5,4.5,Android,False,False
+TX700025,u_0000700025,cmp_b2c_7703,Variant A,DE,2026-11-17T17:27,Bakery,1,4.5,4.5,iOS,True,False
+TX700026,u_0000700026,cmp_b2c_7703,Variant A,DE,2026-11-17T17:35,Cafe,1,4.5,4.5,Android,False,False
+TX700027,u_0000700027,cmp_b2c_7703,Variant A,DE,2026-11-17T17:44,Restaurant,1,4.5,4.5,iOS,False,False
+TX700028,u_0000700028,cmp_b2c_7703,Variant A,DE,2026-11-17T17:53,Grocery,1,4.5,4.5,Android,False,False
+TX700029,u_0000700029,cmp_b2c_7703,Variant A,DE,2026-11-17T18:03,Bakery,1,4.5,4.5,iOS,True,False
+TX700030,u_0000700030,cmp_b2c_7703,Variant A,DE,2026-11-17T18:12,Cafe,1,4.5,4.5,Android,False,False
+TX700031,u_0000700031,cmp_b2c_7703,Variant A,DE,2026-11-17T18:24,Restaurant,1,4.5,4.5,iOS,False,False
+TX700032,u_0000700032,cmp_b2c_7703,Variant A,DE,2026-11-17T18:37,Grocery,1,4.5,4.5,Android,False,False
+TX700033,u_0000700033,cmp_b2c_7703,Variant A,DE,2026-11-17T18:49,Bakery,1,4.5,4.5,iOS,True,False
+TX700034,u_0000700034,cmp_b2c_7703,Variant A,DE,2026-11-17T19:02,Cafe,1,4.5,4.5,Android,False,False
+TX700035,u_0000700035,cmp_b2c_7703,Variant A,DE,2026-11-17T19:15,Restaurant,1,4.5,4.5,iOS,False,False
+TX700036,u_0000700036,cmp_b2c_7703,Variant A,DE,2026-11-17T19:31,Grocery,1,4.5,4.5,Android,False,False
+TX700037,u_0000700037,cmp_b2c_7703,Variant A,DE,2026-11-17T19:46,Bakery,1,4.5,4.5,iOS,True,False
+TX700038,u_0000700038,cmp_b2c_7703,Variant A,DE,2026-11-17T20:02,Cafe,1,4.5,4.5,Android,False,False
+TX700039,u_0000700039,cmp_b2c_7703,Variant A,DE,2026-11-17T20:18,Restaurant,1,4.5,4.5,iOS,False,False
+TX700040,u_0000700040,cmp_b2c_7703,Variant A,DE,2026-11-17T20:35,Grocery,1,4.5,4.5,Android,False,False
+TX700041,u_0000700041,cmp_b2c_7703,Variant A,DE,2026-11-17T20:52,Bakery,1,4.5,4.5,iOS,True,False
+TX700042,u_0000700042,cmp_b2c_7703,Variant A,DE,2026-11-17T21:10,Cafe,1,4.5,4.5,Android,False,False
+TX700043,u_0000700043,cmp_b2c_7703,Variant A,DE,2026-11-17T21:28,Restaurant,1,4.5,4.5,iOS,False,False
+TX700044,u_0000700044,cmp_b2c_7703,Variant A,DE,2026-11-17T21:45,Grocery,1,4.5,4.5,Android,False,False
+TX700045,u_0000700045,cmp_b2c_7703,Variant A,DE,2026-11-18T07:58,Bakery,1,4.5,4.5,iOS,True,False
+TX700046,u_0000700046,cmp_b2c_7703,Variant A,DE,2026-11-18T08:30,Cafe,1,4.5,4.5,Android,False,False
+TX700047,u_0000700047,cmp_b2c_7703,Variant A,DE,2026-11-18T09:11,Restaurant,1,4.5,4.5,iOS,False,False
+TX700048,u_0000700048,cmp_b2c_7703,Variant A,DE,2026-11-18T10:02,Grocery,1,4.5,4.5,Android,False,False
+TX700049,u_0000700049,cmp_b2c_7703,Variant A,DE,2026-11-18T11:19,Bakery,1,4.5,4.5,iOS,True,False
+TX700050,u_0000700050,cmp_b2c_7703,Variant A,DE,2026-11-18T12:47,Cafe,1,4.5,4.5,Android,False,False
+TX700051,u_0000700051,cmp_b2c_7703,Variant A,DE,2026-11-18T14:05,Restaurant,1,4.5,4.5,iOS,False,False
+TX700052,u_0000700052,cmp_b2c_7703,Variant A,DE,2026-11-18T16:22,Grocery,1,4.5,4.5,Android,False,False
+TX700053,u_0000700053,cmp_b2c_7703,Variant A,DE,2026-11-18T17:40,Bakery,1,4.5,4.5,iOS,True,False
+TX700054,u_0000700054,cmp_b2c_7703,Variant A,DE,2026-11-18T18:08,Cafe,1,4.5,4.5,Android,False,False
+TX700055,u_0000700055,cmp_b2c_7703,Variant A,DE,2026-11-18T18:55,Restaurant,1,4.5,4.5,iOS,False,False
+TX700056,u_0000700056,cmp_b2c_7703,Variant A,DE,2026-11-18T19:37,Grocery,1,4.5,4.5,Android,False,False
+TX700057,u_0000700057,cmp_b2c_7703,Variant A,DE,2026-11-18T20:14,Bakery,1,4.5,4.5,iOS,True,False
+TX700058,u_0000700058,cmp_b2c_7703,Variant A,DE,2026-11-18T20:58,Cafe,1,4.5,4.5,Android,False,False
+TX700059,u_0000700059,cmp_b2c_7703,Variant A,DE,2026-11-18T21:30,Restaurant,1,4.5,4.5,iOS,False,False
+TX700060,u_0000700060,cmp_b2c_7703,Variant A,DE,2026-11-19T08:44,Grocery,1,4.5,4.5,Android,False,False
+TX700061,u_0000700061,cmp_b2c_7703,Variant A,DE,2026-11-19T09:50,Bakery,1,4.5,4.5,iOS,True,False
+TX700062,u_0000700062,cmp_b2c_7703,Variant A,DE,2026-11-19T11:12,Cafe,1,4.5,4.5,Android,False,False
+TX700063,u_0000700063,cmp_b2c_7703,Variant A,DE,2026-11-19T13:26,Restaurant,1,4.5,4.5,iOS,False,False
+TX700064,u_0000700064,cmp_b2c_7703,Variant A,DE,2026-11-19T15:39,Grocery,1,4.5,4.5,Android,False,False
+TX700065,u_0000700065,cmp_b2c_7703,Variant A,DE,2026-11-19T17:51,Bakery,1,4.5,4.5,iOS,True,False
+TX700066,u_0000700066,cmp_b2c_7703,Variant A,DE,2026-11-19T18:33,Cafe,1,4.5,4.5,Android,False,False
+TX700067,u_0000700067,cmp_b2c_7703,Variant A,DE,2026-11-19T19:20,Restaurant,1,4.5,4.5,iOS,False,False
+TX700068,u_0000700068,cmp_b2c_7703,Variant A,DE,2026-11-19T20:07,Grocery,1,4.5,4.5,Android,False,False
+TX700069,u_0000700069,cmp_b2c_7703,Variant A,DE,2026-11-19T20:54,Bakery,1,4.5,4.5,iOS,True,False
+TX700070,u_0000700070,cmp_b2c_7703,Variant A,DE,2026-11-20T09:16,Cafe,1,4.5,4.5,Android,False,False
+TX700071,u_0000700071,cmp_b2c_7703,Variant A,DE,2026-11-20T11:42,Restaurant,1,4.5,4.5,iOS,False,False
+TX700072,u_0000700072,cmp_b2c_7703,Variant A,DE,2026-11-20T14:08,Grocery,1,4.5,4.5,Android,False,False
+TX700073,u_0000700073,cmp_b2c_7703,Variant A,DE,2026-11-20T17:34,Bakery,1,4.5,4.5,iOS,True,False
+TX700074,u_0000700074,cmp_b2c_7703,Variant A,DE,2026-11-20T19:01,Cafe,1,4.5,4.5,Android,False,False
+TX700075,u_0000700075,cmp_b2c_7703,Variant A,DE,2026-11-21T10:23,Restaurant,1,4.5,4.5,iOS,False,False
+TX700076,u_0000700076,cmp_b2c_7703,Variant A,DE,2026-11-21T13:47,Grocery,1,4.5,4.5,Android,False,False
+TX700077,u_0000700077,cmp_b2c_7703,Variant A,DE,2026-11-21T18:09,Bakery,1,4.5,4.5,iOS,True,False
+TX700078,u_0000700078,cmp_b2c_7703,Variant A,DE,2026-11-22T11:31,Cafe,1,4.5,4.5,Android,False,False
+TX700079,u_0000700079,cmp_b2c_7703,Variant A,DE,2026-11-22T16:55,Restaurant,1,4.5,4.5,iOS,False,False
+TX700080,u_0000700080,cmp_b2c_7703,Variant A,DE,2026-11-23T12:19,Grocery,1,4.5,4.5,Android,False,False
+TX700081,u_0000700081,cmp_b2c_7703,Control,FR,2026-11-17T17:06,Bakery,1,4.99,4.99,iOS,True,False
+TX700082,u_0000700082,cmp_b2c_7703,Control,FR,2026-11-17T17:13,Cafe,1,4.99,4.99,Android,False,False
+TX700083,u_0000700083,cmp_b2c_7703,Control,FR,2026-11-17T17:22,Restaurant,1,4.99,4.99,iOS,False,False
+TX700084,u_0000700084,cmp_b2c_7703,Control,FR,2026-11-17T17:31,Grocery,1,4.99,4.99,Android,False,False
+TX700085,u_0000700085,cmp_b2c_7703,Control,FR,2026-11-17T17:42,Bakery,1,4.99,4.99,iOS,True,False
+TX700086,u_0000700086,cmp_b2c_7703,Control,FR,2026-11-17T17:55,Cafe,1,4.99,4.99,Android,False,False
+TX700087,u_0000700087,cmp_b2c_7703,Control,FR,2026-11-17T18:08,Restaurant,1,4.99,4.99,iOS,False,False
+TX700088,u_0000700088,cmp_b2c_7703,Control,FR,2026-11-17T18:23,Grocery,1,4.99,4.99,Android,False,False
+TX700089,u_0000700089,cmp_b2c_7703,Control,FR,2026-11-17T18:39,Bakery,1,4.99,4.99,iOS,True,False
+TX700090,u_0000700090,cmp_b2c_7703,Control,FR,2026-11-17T18:57,Cafe,1,4.99,4.99,Android,False,False
+TX700091,u_0000700091,cmp_b2c_7703,Control,FR,2026-11-17T19:14,Restaurant,1,4.99,4.99,iOS,False,False
+TX700092,u_0000700092,cmp_b2c_7703,Control,FR,2026-11-17T19:33,Grocery,1,4.99,4.99,Android,False,False
+TX700093,u_0000700093,cmp_b2c_7703,Control,FR,2026-11-17T19:52,Bakery,1,4.99,4.99,iOS,True,False
+TX700094,u_0000700094,cmp_b2c_7703,Control,FR,2026-11-17T20:10,Cafe,1,4.99,4.99,Android,False,False
+TX700095,u_0000700095,cmp_b2c_7703,Control,FR,2026-11-17T20:31,Restaurant,1,4.99,4.99,iOS,False,False
+TX700096,u_0000700096,cmp_b2c_7703,Control,FR,2026-11-17T20:49,Grocery,1,4.99,4.99,Android,False,False
+TX700097,u_0000700097,cmp_b2c_7703,Control,FR,2026-11-17T21:08,Bakery,1,4.99,4.99,iOS,True,False
+TX700098,u_0000700098,cmp_b2c_7703,Control,FR,2026-11-17T21:26,Cafe,1,4.99,4.99,Android,False,False
+TX700099,u_0000700099,cmp_b2c_7703,Control,FR,2026-11-17T21:41,Restaurant,1,4.99,4.99,iOS,False,False
+TX700100,u_0000700100,cmp_b2c_7703,Control,FR,2026-11-17T21:57,Grocery,1,4.99,4.99,Android,False,False
+TX700101,u_0000700101,cmp_b2c_7703,Control,FR,2026-11-18T07:49,Bakery,1,4.99,4.99,iOS,True,False
+TX700102,u_0000700102,cmp_b2c_7703,Control,FR,2026-11-18T08:35,Cafe,1,4.99,4.99,Android,False,False
+TX700103,u_0000700103,cmp_b2c_7703,Control,FR,2026-11-18T09:42,Restaurant,1,4.99,4.99,iOS,False,False
+TX700104,u_0000700104,cmp_b2c_7703,Control,FR,2026-11-18T11:05,Grocery,1,4.99,4.99,Android,False,False
+TX700105,u_0000700105,cmp_b2c_7703,Control,FR,2026-11-18T12:28,Bakery,1,4.99,4.99,iOS,True,False
+TX700106,u_0000700106,cmp_b2c_7703,Control,FR,2026-11-18T14:16,Cafe,1,4.99,4.99,Android,False,False
+TX700107,u_0000700107,cmp_b2c_7703,Control,FR,2026-11-18T16:03,Restaurant,1,4.99,4.99,iOS,False,False
+TX700108,u_0000700108,cmp_b2c_7703,Control,FR,2026-11-18T17:51,Grocery,1,4.99,4.99,Android,False,False
+TX700109,u_0000700109,cmp_b2c_7703,Control,FR,2026-11-18T18:44,Bakery,1,4.99,4.99,iOS,True,False
+TX700110,u_0000700110,cmp_b2c_7703,Control,FR,2026-11-18T19:37,Cafe,1,4.99,4.99,Android,False,False
+TX700111,u_0000700111,cmp_b2c_7703,Control,FR,2026-11-18T20:25,Restaurant,1,4.99,4.99,iOS,False,False
+TX700112,u_0000700112,cmp_b2c_7703,Control,FR,2026-11-18T21:12,Grocery,1,4.99,4.99,Android,False,False
+TX700113,u_0000700113,cmp_b2c_7703,Control,FR,2026-11-19T08:07,Bakery,1,4.99,4.99,iOS,True,False
+TX700114,u_0000700114,cmp_b2c_7703,Control,FR,2026-11-19T09:34,Cafe,1,4.99,4.99,Android,False,False
+TX700115,u_0000700115,cmp_b2c_7703,Control,FR,2026-11-19T11:50,Restaurant,1,4.99,4.99,iOS,False,False
+TX700116,u_0000700116,cmp_b2c_7703,Control,FR,2026-11-19T14:13,Grocery,1,4.99,4.99,Android,False,False
+TX700117,u_0000700117,cmp_b2c_7703,Control,FR,2026-11-19T17:46,Bakery,1,4.99,4.99,iOS,True,False
+TX700118,u_0000700118,cmp_b2c_7703,Control,FR,2026-11-19T19:02,Cafe,1,4.99,4.99,Android,False,False
+TX700119,u_0000700119,cmp_b2c_7703,Control,FR,2026-11-19T20:21,Restaurant,1,4.99,4.99,iOS,False,False
+TX700120,u_0000700120,cmp_b2c_7703,Control,FR,2026-11-19T21:09,Grocery,1,4.99,4.99,Android,False,False
+TX700121,u_0000700121,cmp_b2c_7703,Control,FR,2026-11-20T09:27,Bakery,1,4.99,4.99,iOS,True,False
+TX700122,u_0000700122,cmp_b2c_7703,Control,FR,2026-11-20T12:44,Cafe,1,4.99,4.99,Android,False,False
+TX700123,u_0000700123,cmp_b2c_7703,Control,FR,2026-11-20T16:18,Restaurant,1,4.99,4.99,iOS,False,False
+TX700124,u_0000700124,cmp_b2c_7703,Control,FR,2026-11-20T18:36,Grocery,1,4.99,4.99,Android,False,False
+TX700125,u_0000700125,cmp_b2c_7703,Control,FR,2026-11-20T20:02,Bakery,1,4.99,4.99,iOS,True,False
+TX700126,u_0000700126,cmp_b2c_7703,Control,FR,2026-11-21T10:15,Cafe,1,4.99,4.99,Android,False,False
+TX700127,u_0000700127,cmp_b2c_7703,Control,FR,2026-11-21T14:40,Restaurant,1,4.99,4.99,iOS,False,False
+TX700128,u_0000700128,cmp_b2c_7703,Control,FR,2026-11-21T19:05,Grocery,1,4.99,4.99,Android,False,False
+TX700129,u_0000700129,cmp_b2c_7703,Control,FR,2026-11-22T11:22,Bakery,1,4.99,4.99,iOS,True,False
+TX700130,u_0000700130,cmp_b2c_7703,Control,FR,2026-11-22T17:48,Cafe,1,4.99,4.99,Android,False,False
+TX700131,u_0000700131,cmp_b2c_7703,Variant A,FR,2026-11-17T17:07,Restaurant,1,4.99,4.99,iOS,True,False
+TX700132,u_0000700132,cmp_b2c_7703,Variant A,FR,2026-11-17T17:18,Grocery,1,4.99,4.99,Android,False,False
+TX700133,u_0000700133,cmp_b2c_7703,Variant A,FR,2026-11-17T17:30,Bakery,1,4.99,4.99,iOS,False,False
+TX700134,u_0000700134,cmp_b2c_7703,Variant A,FR,2026-11-17T17:45,Cafe,1,4.99,4.99,Android,False,False
+TX700135,u_0000700135,cmp_b2c_7703,Variant A,FR,2026-11-17T18:01,Restaurant,1,4.99,4.99,iOS,True,False
+TX700136,u_0000700136,cmp_b2c_7703,Variant A,FR,2026-11-17T18:20,Grocery,1,4.99,4.99,Android,False,False
+TX700137,u_0000700137,cmp_b2c_7703,Variant A,FR,2026-11-17T18:41,Bakery,1,4.99,4.99,iOS,False,False
+TX700138,u_0000700138,cmp_b2c_7703,Variant A,FR,2026-11-17T19:03,Cafe,1,4.99,4.99,Android,False,False
+TX700139,u_0000700139,cmp_b2c_7703,Variant A,FR,2026-11-17T19:27,Restaurant,1,4.99,4.99,iOS,True,False
+TX700140,u_0000700140,cmp_b2c_7703,Variant A,FR,2026-11-17T19:50,Grocery,1,4.99,4.99,Android,False,False
+TX700141,u_0000700141,cmp_b2c_7703,Variant A,FR,2026-11-17T20:14,Bakery,1,4.99,4.99,iOS,False,False
+TX700142,u_0000700142,cmp_b2c_7703,Variant A,FR,2026-11-17T20:38,Cafe,1,4.99,4.99,Android,False,False
+TX700143,u_0000700143,cmp_b2c_7703,Variant A,FR,2026-11-17T21:00,Restaurant,1,4.99,4.99,iOS,True,False
+TX700144,u_0000700144,cmp_b2c_7703,Variant A,FR,2026-11-17T21:22,Grocery,1,4.99,4.99,Android,False,False
+TX700145,u_0000700145,cmp_b2c_7703,Variant A,FR,2026-11-17T21:40,Bakery,1,4.99,4.99,iOS,False,False
+TX700146,u_0000700146,cmp_b2c_7703,Variant A,FR,2026-11-17T21:58,Cafe,1,4.99,4.99,Android,False,False
+TX700147,u_0000700147,cmp_b2c_7703,Variant A,FR,2026-11-18T08:09,Restaurant,1,4.99,4.99,iOS,True,False
+TX700148,u_0000700148,cmp_b2c_7703,Variant A,FR,2026-11-18T09:31,Grocery,1,4.99,4.99,Android,False,False
+TX700149,u_0000700149,cmp_b2c_7703,Variant A,FR,2026-11-18T11:14,Bakery,1,4.99,4.99,iOS,False,False
+TX700150,u_0000700150,cmp_b2c_7703,Variant A,FR,2026-11-18T13:02,Cafe,1,4.99,4.99,Android,False,False
+TX700151,u_0000700151,cmp_b2c_7703,Variant A,FR,2026-11-18T15:47,Restaurant,1,4.99,4.99,iOS,True,False
+TX700152,u_0000700152,cmp_b2c_7703,Variant A,FR,2026-11-18T17:33,Grocery,1,4.99,4.99,Android,False,False
+TX700153,u_0000700153,cmp_b2c_7703,Variant A,FR,2026-11-18T18:59,Bakery,1,4.99,4.99,iOS,False,False
+TX700154,u_0000700154,cmp_b2c_7703,Variant A,FR,2026-11-18T20:08,Cafe,1,4.99,4.99,Android,False,False
+TX700155,u_0000700155,cmp_b2c_7703,Variant A,FR,2026-11-18T21:19,Restaurant,1,4.99,4.99,iOS,True,False
+TX700156,u_0000700156,cmp_b2c_7703,Variant A,FR,2026-11-18T21:50,Grocery,1,4.99,4.99,Android,False,False
+TX700157,u_0000700157,cmp_b2c_7703,Variant A,FR,2026-11-19T08:36,Bakery,1,4.99,4.99,iOS,False,False
+TX700158,u_0000700158,cmp_b2c_7703,Variant A,FR,2026-11-19T11:25,Cafe,1,4.99,4.99,Android,False,False
+TX700159,u_0000700159,cmp_b2c_7703,Variant A,FR,2026-11-19T14:52,Restaurant,1,4.99,4.99,iOS,True,False
+TX700160,u_0000700160,cmp_b2c_7703,Variant A,FR,2026-11-19T17:58,Grocery,1,4.99,4.99,Android,False,False
+TX700161,u_0000700161,cmp_b2c_7703,Variant A,FR,2026-11-19T19:44,Bakery,1,4.99,4.99,iOS,False,False
+TX700162,u_0000700162,cmp_b2c_7703,Variant A,FR,2026-11-19T21:03,Cafe,1,4.99,4.99,Android,False,False
+TX700163,u_0000700163,cmp_b2c_7703,Variant A,FR,2026-11-20T10:11,Restaurant,1,4.99,4.99,iOS,True,False
+TX700164,u_0000700164,cmp_b2c_7703,Variant A,FR,2026-11-20T15:29,Grocery,1,4.99,4.99,Android,False,False
+TX700165,u_0000700165,cmp_b2c_7703,Variant A,FR,2026-11-20T18:47,Bakery,1,4.99,4.99,iOS,False,False
+TX700166,u_0000700166,cmp_b2c_7703,Variant A,FR,2026-11-20T20:35,Cafe,1,4.99,4.99,Android,False,False
+TX700167,u_0000700167,cmp_b2c_7703,Variant A,FR,2026-11-21T12:06,Restaurant,1,4.99,4.99,iOS,True,False
+TX700168,u_0000700168,cmp_b2c_7703,Variant A,FR,2026-11-21T18:41,Grocery,1,4.99,4.99,Android,False,False
+TX700169,u_0000700169,cmp_b2c_7703,Variant A,FR,2026-11-22T13:17,Bakery,1,4.99,4.99,iOS,False,False
+TX700170,u_0000700170,cmp_b2c_7703,Variant A,FR,2026-11-23T10:53,Cafe,1,4.99,4.99,Android,False,False
+TX700171,u_0000700171,cmp_b2c_7703,Control,NL,2026-11-17T17:08,Restaurant,1,4.6,4.6,iOS,True,False
+TX700172,u_0000700172,cmp_b2c_7703,Control,NL,2026-11-17T17:26,Grocery,1,4.6,4.6,Android,False,False
+TX700173,u_0000700173,cmp_b2c_7703,Control,NL,2026-11-17T17:49,Bakery,1,4.6,4.6,iOS,False,False
+TX700174,u_0000700174,cmp_b2c_7703,Control,NL,2026-11-17T18:13,Cafe,1,4.6,4.6,Android,False,False
+TX700175,u_0000700175,cmp_b2c_7703,Control,NL,2026-11-17T18:40,Restaurant,1,4.6,4.6,iOS,True,False
+TX700176,u_0000700176,cmp_b2c_7703,Control,NL,2026-11-17T19:08,Grocery,1,4.6,4.6,Android,False,False
+TX700177,u_0000700177,cmp_b2c_7703,Control,NL,2026-11-17T19:36,Bakery,1,4.6,4.6,iOS,False,False
+TX700178,u_0000700178,cmp_b2c_7703,Control,NL,2026-11-17T20:03,Cafe,1,4.6,4.6,Android,False,False
+TX700179,u_0000700179,cmp_b2c_7703,Control,NL,2026-11-17T20:32,Restaurant,1,4.6,4.6,iOS,True,False
+TX700180,u_0000700180,cmp_b2c_7703,Control,NL,2026-11-17T20:59,Grocery,1,4.6,4.6,Android,False,False
+TX700181,u_0000700181,cmp_b2c_7703,Control,NL,2026-11-17T21:24,Bakery,1,4.6,4.6,iOS,False,False
+TX700182,u_0000700182,cmp_b2c_7703,Control,NL,2026-11-17T21:51,Cafe,1,4.6,4.6,Android,False,False
+TX700183,u_0000700183,cmp_b2c_7703,Control,NL,2026-11-18T08:21,Restaurant,1,4.6,4.6,iOS,True,False
+TX700184,u_0000700184,cmp_b2c_7703,Control,NL,2026-11-18T10:07,Grocery,1,4.6,4.6,Android,False,False
+TX700185,u_0000700185,cmp_b2c_7703,Control,NL,2026-11-18T12:34,Bakery,1,4.6,4.6,iOS,False,False
+TX700186,u_0000700186,cmp_b2c_7703,Control,NL,2026-11-18T15:50,Cafe,1,4.6,4.6,Android,False,False
+TX700187,u_0000700187,cmp_b2c_7703,Control,NL,2026-11-18T18:17,Restaurant,1,4.6,4.6,iOS,True,False
+TX700188,u_0000700188,cmp_b2c_7703,Control,NL,2026-11-18T19:42,Grocery,1,4.6,4.6,Android,False,False
+TX700189,u_0000700189,cmp_b2c_7703,Control,NL,2026-11-18T20:56,Bakery,1,4.6,4.6,iOS,False,False
+TX700190,u_0000700190,cmp_b2c_7703,Control,NL,2026-11-18T21:33,Cafe,1,4.6,4.6,Android,False,False
+TX700191,u_0000700191,cmp_b2c_7703,Control,NL,2026-11-19T09:15,Restaurant,1,4.6,4.6,iOS,True,False
+TX700192,u_0000700192,cmp_b2c_7703,Control,NL,2026-11-19T13:41,Grocery,1,4.6,4.6,Android,False,False
+TX700193,u_0000700193,cmp_b2c_7703,Control,NL,2026-11-19T18:09,Bakery,1,4.6,4.6,iOS,False,False
+TX700194,u_0000700194,cmp_b2c_7703,Control,NL,2026-11-19T20:27,Cafe,1,4.6,4.6,Android,False,False
+TX700195,u_0000700195,cmp_b2c_7703,Control,NL,2026-11-20T10:52,Restaurant,1,4.6,4.6,iOS,True,False
+TX700196,u_0000700196,cmp_b2c_7703,Control,NL,2026-11-20T16:30,Grocery,1,4.6,4.6,Android,False,False
+TX700197,u_0000700197,cmp_b2c_7703,Control,NL,2026-11-20T19:48,Bakery,1,4.6,4.6,iOS,False,False
+TX700198,u_0000700198,cmp_b2c_7703,Control,NL,2026-11-21T11:13,Cafe,1,4.6,4.6,Android,False,False
+TX700199,u_0000700199,cmp_b2c_7703,Control,NL,2026-11-21T17:39,Restaurant,1,4.6,4.6,iOS,True,False
+TX700200,u_0000700200,cmp_b2c_7703,Control,NL,2026-11-22T12:55,Grocery,1,4.6,4.6,Android,False,False
+TX700201,u_0000700201,cmp_b2c_7703,Variant A,NL,2026-11-17T17:10,Bakery,1,4.6,4.6,iOS,True,False
+TX700202,u_0000700202,cmp_b2c_7703,Variant A,NL,2026-11-17T17:29,Cafe,1,4.6,4.6,Android,False,False
+TX700203,u_0000700203,cmp_b2c_7703,Variant A,NL,2026-11-17T17:52,Restaurant,1,4.6,4.6,iOS,False,False
+TX700204,u_0000700204,cmp_b2c_7703,Variant A,NL,2026-11-17T18:16,Grocery,1,4.6,4.6,Android,False,False
+TX700205,u_0000700205,cmp_b2c_7703,Variant A,NL,2026-11-17T18:43,Bakery,1,4.6,4.6,iOS,True,False
+TX700206,u_0000700206,cmp_b2c_7703,Variant A,NL,2026-11-17T19:11,Cafe,1,4.6,4.6,Android,False,False
+TX700207,u_0000700207,cmp_b2c_7703,Variant A,NL,2026-11-17T19:39,Restaurant,1,4.6,4.6,iOS,False,False
+TX700208,u_0000700208,cmp_b2c_7703,Variant A,NL,2026-11-17T20:06,Grocery,1,4.6,4.6,Android,False,False
+TX700209,u_0000700209,cmp_b2c_7703,Variant A,NL,2026-11-17T20:35,Bakery,1,4.6,4.6,iOS,True,False
+TX700210,u_0000700210,cmp_b2c_7703,Variant A,NL,2026-11-17T21:02,Cafe,1,4.6,4.6,Android,False,False
+TX700211,u_0000700211,cmp_b2c_7703,Variant A,NL,2026-11-17T21:27,Restaurant,1,4.6,4.6,iOS,False,False
+TX700212,u_0000700212,cmp_b2c_7703,Variant A,NL,2026-11-17T21:54,Grocery,1,4.6,4.6,Android,False,False
+TX700213,u_0000700213,cmp_b2c_7703,Variant A,NL,2026-11-18T08:24,Bakery,1,4.6,4.6,iOS,True,False
+TX700214,u_0000700214,cmp_b2c_7703,Variant A,NL,2026-11-18T10:10,Cafe,1,4.6,4.6,Android,False,False
+TX700215,u_0000700215,cmp_b2c_7703,Variant A,NL,2026-11-18T12:37,Restaurant,1,4.6,4.6,iOS,False,False
+TX700216,u_0000700216,cmp_b2c_7703,Variant A,NL,2026-11-18T15:53,Grocery,1,4.6,4.6,Android,False,False
+TX700217,u_0000700217,cmp_b2c_7703,Variant A,NL,2026-11-18T18:20,Bakery,1,4.6,4.6,iOS,True,False
+TX700218,u_0000700218,cmp_b2c_7703,Variant A,NL,2026-11-18T19:45,Cafe,1,4.6,4.6,Android,False,False
+TX700219,u_0000700219,cmp_b2c_7703,Variant A,NL,2026-11-18T20:59,Restaurant,1,4.6,4.6,iOS,False,False
+TX700220,u_0000700220,cmp_b2c_7703,Variant A,NL,2026-11-18T21:36,Grocery,1,4.6,4.6,Android,False,False
+TX700221,u_0000700221,cmp_b2c_7703,Variant A,NL,2026-11-19T09:18,Bakery,1,4.6,4.6,iOS,True,False
+TX700222,u_0000700222,cmp_b2c_7703,Variant A,NL,2026-11-19T13:44,Cafe,1,4.6,4.6,Android,False,False
+TX700223,u_0000700223,cmp_b2c_7703,Variant A,NL,2026-11-19T18:12,Restaurant,1,4.6,4.6,iOS,False,False
+TX700224,u_0000700224,cmp_b2c_7703,Variant A,NL,2026-11-19T20:30,Grocery,1,4.6,4.6,Android,False,False
+TX700225,u_0000700225,cmp_b2c_7703,Variant A,NL,2026-11-20T10:55,Bakery,1,4.6,4.6,iOS,True,False
+TX700226,u_0000700226,cmp_b2c_7703,Variant A,NL,2026-11-20T16:33,Cafe,1,4.6,4.6,Android,False,False
+TX700227,u_0000700227,cmp_b2c_7703,Variant A,NL,2026-11-20T19:51,Restaurant,1,4.6,4.6,iOS,False,False
+TX700228,u_0000700228,cmp_b2c_7703,Variant A,NL,2026-11-21T11:16,Grocery,1,4.6,4.6,Android,False,False
+TX700229,u_0000700229,cmp_b2c_7703,Variant A,NL,2026-11-21T17:42,Bakery,1,4.6,4.6,iOS,True,False
+TX700230,u_0000700230,cmp_b2c_7703,Variant A,NL,2026-11-22T12:58,Cafe,1,4.6,4.6,Android,False,False
